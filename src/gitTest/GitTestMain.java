@@ -17,6 +17,7 @@ public class GitTestMain {
 		System.out.println("** Commit Test 01  => " + today.format(df));
 		System.out.println("** Branch hotfix 추가  => " + today.format(df));
 		System.out.println("Local Commit Test");
+		System.out.println("hotfix branch Commit Test");
 		
 	} // main
 	
